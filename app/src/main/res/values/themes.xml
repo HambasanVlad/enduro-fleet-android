@@ -1,0 +1,4 @@
+<resources>
+    <!-- Tema ferestrei; culorile ecranelor vin din MaterialTheme (Compose). -->
+    <style name="Theme.EnduroFleet" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
